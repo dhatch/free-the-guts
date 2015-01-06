@@ -10,7 +10,7 @@
         {
             "matches": ["*://*.coursetable.com/Table*"],
             "js" : ["jquery.js", "gut_sort.js"],
-            "run_at": "document_start"
+            "run_at": "document_end"
         }
     ]
 }
